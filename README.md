@@ -1,6 +1,6 @@
-FieldLab1 – Refugee Protection Data Entry Prototype
+Secure FAIR Refugee Protection Information System (RPIS)
 
-This repository contains a Streamlit-based prototype developed for the Data Science in Practice (FieldLab) course at Leiden University. The prototype demonstrates how sensitive refugee protection data can be collected, transformed, and stored in a FAIR- and GDPR-aware manner using semantic technologies.
+This repository contains a Streamlit-based prototype developed for the Data Science in Practice. The prototype demonstrates how sensitive refugee protection data can be collected, transformed, and stored in a FAIR- and GDPR-aware manner using semantic technologies.
 
 The application provides a simple web interface for recording refugee protection incidents. Data entered through the interface is validated, mapped to a domain ontology (HDS Common Data Model), transformed into RDF, and stored in an AllegroGraph triplestore. The system is designed as a proof-of-concept and focuses on governance, data minimization, interoperability, and reproducibility rather than operational deployment.
 
