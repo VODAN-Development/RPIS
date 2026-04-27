@@ -17,10 +17,10 @@ HDS = Namespace("http://example.org/hds#")
 HDS_RES = Namespace("http://example.org/hds/resource/")
 
 # AllegroGraph connection 
-ALLEGRO_BASE = "https://ag1g6r37fkqqzppm.allegrograph.cloud/"   # local AllegroGraph
-REPOSITORY = "fieldlab1"                  # repo name
+ALLEGRO_BASE = "https://ag1hnv7azzmpj8zr.allegrograph.cloud"   # local AllegroGraph
+REPOSITORY = "DPO2"                  # repo name
 ALLEGRO_USER = "admin"                     # AG username
-ALLEGRO_PASSWORD = "fc7bJ0vN88xF01yPbJG60Z"                 # AG password
+ALLEGRO_PASSWORD = "0e4kbGJ5NJMNXZ04zFsrQJ"                 # AG password
 
 ALLEGRO_STATEMENTS_URL = f"{ALLEGRO_BASE}/repositories/{REPOSITORY}/statements"
 
